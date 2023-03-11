@@ -1,2 +1,2 @@
 # MyWebStore
-If you try to change my code and try devolop it . You can do it with out any hegitation . But don't destroy my code . Because its not a code its my memories of web journy. Here some --html/css/boostrap files -- you can easily acces it.
+If you try to change my code and try to devolop it . You can do it without any hegitation . But don't destroy my code . Because its not a code it's my memories of web journy. Here some --Html/Css/Boostrap files -- you can easily acces it.
